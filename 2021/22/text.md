@@ -1,4 +1,4 @@
-**Week 22** update\.
+<b>Week 22</b> update\.
 
 Here what is _Spam Worthy_ this week:
 
