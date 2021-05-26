@@ -1,6 +1,4 @@
-~~Spam Worthy~
-
-~~Curated news for brains with no rules.
+~~Spam Worthy Curated news for brains with no rules.~~
 
 ---
 
