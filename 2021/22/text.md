@@ -12,7 +12,7 @@ Here what is _Spam Worthy_ this week:
 
 [What Are You Doing With Your Life\?](https://www.youtube.com/watch?v=JXeJANDKwDc) \- Remember to make decisions\! 
 
-*\ | WTF section \| *
+* \| WTF section \| *
 
 [Aliens from the bottom of the oceans](https://tinyurl.com/43eff4u4) \- the depth of the deep\.
 
