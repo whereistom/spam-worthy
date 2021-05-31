@@ -10,8 +10,7 @@ Here what is _Spam Worthy_ this week:
 
 [UFO are real phenomena](https://www.youtube.com/watch?v=5HInaJxFxWs&t=1483s) \- In June the Pentagone will release the the new report that can shake the understanding of the world as we know it\. Until then watch captain Fravor interview with Lex\.  
 
-[What Are You Doing With Your Life\?](https://www.youtube.com/watch?v=JXeJANDKwDc)
-Remember to make decisions\! 
+[What Are You Doing With Your Life\?](https://www.youtube.com/watch?v=JXeJANDKwDc) \- Remember to make decisions\! 
 
 *WTF secion*
 
