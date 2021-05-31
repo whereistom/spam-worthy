@@ -3,6 +3,7 @@
 Here what is _Spam Worthy_ this week:
 
 *Articles*
+
 [NSA spying: Denmark accused of helping USA spy on European](https://www.bbc.com/news/world-europe-57302806) \- Americans like Danish meat\.
 
 *From the Tube*
