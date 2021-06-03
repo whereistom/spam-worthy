@@ -11,4 +11,6 @@ Here what is _Spam Worthy_ this week:
 
 * \| WTF section \| *
 
+[Don't toch it, eat it, smell it nor stand close to it](https://www.youtube.com/watch?v=tboW11dMeKs&ab_channel=BBCEarthUnpluggedBBCEarthUnpluggedVerified) \- the poison garden\.
+
 _Spam Worthy_ is available via `Telegram`, `Signal` or weekly `News letter`
