@@ -10,6 +10,8 @@ Here what is _Spam Worthy_ this week:
 
 * \| From the Tube \| *
 
+[How does extintion looks like\?](https://www.youtube.com/watch?v=dFCbJmgeHmA&t=3s&ab_channel=MeetKevinMeetKevinVerified) -\ new kurtzegheisstszcuhsdnjz
+
 * \| WTF section \| *
 
 _Spam Worthy_ is available via `Telegram`, `Signal` or weekly `News letter`
