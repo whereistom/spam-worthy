@@ -14,4 +14,6 @@ Here what is _Spam Worthy_ this week:
 
 * \| WTF section \| *
 
+[Third eye](https://youtu.be/3TXrsvc7GQU) \- A third eye will save phone-zombies from extinction\!
+
 _Spam Worthy_ is available via `Telegram`, `Signal` or weekly `News letter`
