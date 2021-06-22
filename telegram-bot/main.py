@@ -18,7 +18,7 @@ def send_group(msg, id_list):
         bot.sendMessage(chat_id=item, text=msg, parse_mode='MarkdownV2', disable_web_page_preview='true')
 
 
-groups_id = private.groups_list_id
+#groups_id = private.test_id
 
 # what week number are we in?
 week = datetime.date.today().isocalendar()[1]
