@@ -10,10 +10,10 @@ Here what is _Spam Worthy_ this week:
 
 * \| From the Tube \| *
 
-[Andrej Karpathy on why radar is not needed for solving autonomy](https://www.youtube.com/watch?v=eOL_rCK59ZI&t=28292s&ab_channel=TeslaDailyTeslaDailyVerified) \- AI day is in about 1 month\, meanwhile Andrej delivers on progress to solve autonomy just by vision\. A bit technical but should enable everyone to understand where the world is heading to\.
+[Incredible Paris 1890](https://www.youtube.com/watch?v=fo_eZuOTBNc&ab_channel=DenisShiryaev) \- Looking into the camera they were looking straight into the future\.
 
-* \| WTF section \| *
+* \| WTW section \| *
 
-[]() \- 
+[Matrix 4 trailer](https://www.youtube.com/watch?v=AB59tJPthZg&ab_channel=ONEMedia) \-  meh\.\.\.
 
 _Spam Worthy_ is available via `Telegram`, `Signal` or weekly `News letter`
