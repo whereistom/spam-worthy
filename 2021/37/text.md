@@ -1,12 +1,12 @@
-*Week25* update
+*Week37* update
 
 Here what is _Spam Worthy_ this week:
 
 * \| Articles \| *
 
-[]() \- 
+[Car parking stacking system 1932](http://wendycitychicago.com/the-car-parking-machine-1932/) \- We had good ideas and somehow forgot about them\. In 10 years with autonomous driving car parking will disappear in favor of new costruction sites\. What will it be\? Parks\? Buildings\?
 
-[]() \-
+[15 september, Inspiration 4](https://inspiration4.com/) \- The first launch with just civilians to space on Dragon\!
 
 * \| From the Tube \| *
 
@@ -17,5 +17,7 @@ Here what is _Spam Worthy_ this week:
 * \| WTW section \| *
 
 [Matrix 4 trailer](https://www.youtube.com/watch?v=AB59tJPthZg&ab_channel=ONEMedia) \-  meh\.\.\.
+
+[The looming tower](https://www.imdb.com/title/tt6474236/?ref_=fn_al_tt_1) \- Great show on what went down between CIA and FBI before 9\/11\.
 
 _Spam Worthy_ is available via `Telegram`, `Signal` or weekly `News letter`
