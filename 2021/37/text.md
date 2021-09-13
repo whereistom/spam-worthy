@@ -4,7 +4,7 @@ Here what is _Spam Worthy_ this week:
 
 * \| Articles \| *
 
-[Car parking stacking system 1932](http://wendycitychicago.com/the-car-parking-machine-1932/) \- We had good ideas and somehow forgot about them\. In 10 years with autonomous driving car parking will disappear in favor of new costruction sites\. What will it be\? Parks\? Buildings\?
+[Car parking stacking system 1932](http://wendycitychicago.com/the-car-parking-machine-1932/) \- We had good ideas and somehow forgot about them\. In 10 years car parks will disappear\, what are we going to do with all this new estate space\?
 
 [15 september, Inspiration 4](https://inspiration4.com/) \- The first launch with just civilians to space on Dragon\!
 
