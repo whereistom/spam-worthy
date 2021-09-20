@@ -1,4 +1,4 @@
-*Week25* update
+*Week39* update
 
 Here what is _Spam Worthy_ this week:
 
