@@ -12,7 +12,7 @@ Here what is _Spam Worthy_ this week:
 
 * \| From the Tube \| *
 
-[How a jellyfish caused the invention of modern microscopy](https://www.youtube.com/watch?v=SqrRW3CMOzo&ab_channel=TheRoyalInstitution) \- RI with another amazing story narrated by Dan Davis.\
+[How a jellyfish caused the invention of modern microscopy](https://www.youtube.com/watch?v=SqrRW3CMOzo&ab_channel=TheRoyalInstitution) \- RI with another amazing story narrated by Dan Davis\.
 
 * \| WTWatch \| *
 
