@@ -18,6 +18,6 @@ Here what is _Spam Worthy_ this week:
 
 [NETFLIX: inspiration 4 mini-series](https://www.youtube.com/watch?v=D38W150h9a4) \- A mini series on the recent inspiration 4 launch is available on Netflix with latest episode coming out on the 30th\.
 
-[The Invincible](https://www.youtube.com/watch?v=-bfAVpuko5o&t=11s) \- New epic show on Amazon Prime about a Justice League copycat but Japanese shows are never boring\.\.\.
+[The Invincible](https://www.youtube.com/watch?v=-bfAVpuko5o&t=11s) \- New epic show on Amazon Prime about a Justice League copycat\, but Japanese shows are never boring\.\.\.
 
 _Spam Worthy_ is available via `Telegram`, `Signal` or weekly `News letter`
