@@ -1,4 +1,4 @@
-*Week25* update
+*Week40* update
 
 Here what is _Spam Worthy_ this week:
 
@@ -6,13 +6,13 @@ Here what is _Spam Worthy_ this week:
 
 []() \- 
 
-[]() \-
+[Video of DNA search and cleavage by CRISPR-Cas9](https://twitter.com/hnisimasu/status/928933260159197184?s=20) \- The University of Tokyo\, 
+used high\-speed atomic force microscopy to document CRISPR Cas9 grasping the DNA and causing a DSB\. This gets ranked on the epic scale\.
 
 * \| From the Tube \| *
 
-[Andrej Karpathy on why radar is not needed for solving autonomy](https://www.youtube.com/watch?v=eOL_rCK59ZI&t=28292s&ab_channel=TeslaDailyTeslaDailyVerified) \- AI day is in about 1 month\, meanwhile Andrej delivers on progress to solve autonomy just by vision\. A bit technical but should enable everyone to understand where the world is heading to\.
 
-* \| WTF section \| *
+* \| WTWatch section \| *
 
 []() \- 
 
