@@ -4,11 +4,11 @@ Here what is _Spam Worthy_ this week:
 
 * \| Articles \| *
 
-[Carrots are not orange!](https://www.businessinsider.com/carrots-used-to-be-purple-before-17th-century-2014-6?r=US&IR=T) \- \.\.\.they are now\.
+[Carrots are not orange](https://www.businessinsider.com/carrots-used-to-be-purple-before-17th-century-2014-6?r=US&IR=T) \- \.\.\.they are now\.
 
 [Personal Information of More Than 1.5 Billion Facebook Users Sold](https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/) \- Lots of people you know in here\.
 
-[Video of DNA search and cleavage by CRISPR-Cas9](https://twitter.com/hnisimasu/status/928933260159197184?s=20) \- The University of Tokyo\, 
+[Video of DNA search and cleavage by CRISPR Cas9](https://twitter.com/hnisimasu/status/928933260159197184?s=20) \- The University of Tokyo\, 
 used high\-speed atomic force microscopy to document CRISPR Cas9 grasping the DNA and causing a DSB\. This gets ranked on the epic scale\.
 
 * \| From the Tube \| *
